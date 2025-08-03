@@ -1,0 +1,18 @@
+HTML
+CSS -----> Tailwind CSS
+JavaScript -----> TypeScript
+GitHub -----> Git
+FRONTEND PROJECTS
+
+NodeJS
+ExpressJS
+BACKEND PROJECTS
+
+ReactJS -----> NextJS
+MongoDB -----> MySQL -----> PostgreSQL
+FULL STACK PROJECTS
+
+MongooseORM -----> PrismaORM
+
+Netlify/Vercel -----> Digital Ocean -----> AWS
+DEPLOYMENT
