@@ -57,11 +57,6 @@ Build a simple readme markdown previewer that allows users to enter markdown tex
 - Application uses certain breakpoints to provide responsiveness among multiple devices that are standerized globally
 - These standerized breakpoints are avaliable at [**Tailwind CSS**](https://tailwindcss.com/docs/responsive-design)
 
-## Deployment
-
-- Application is deployed on GitHub Pages for accessibility across web
-- View Website - [**Click Here**](https://manjeetsingh-02.github.io/masterji-markdown-previewer/)
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
